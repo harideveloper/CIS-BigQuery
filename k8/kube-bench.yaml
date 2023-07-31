@@ -16,7 +16,6 @@ spec:
               "run",
               "--nototals",
               "--targets",
-              "--noremediations",
               "node,policies,managedservices",
               "--benchmark",
               "gke-1.2.0",
