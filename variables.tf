@@ -1,8 +1,3 @@
-variable "project_name" {
-  type        = string
-  description = "GCP Project Name"
-}
-
 ##### GKE
 variable "project_id" {
   type    = string
